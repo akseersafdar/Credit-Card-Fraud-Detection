@@ -17,7 +17,7 @@ We have tried out different models and them compated their Precision, Recall, an
 
 
 # Code 
-For python code with comments please refer to the attached iPython Notebook in this repo. Also you can check out below kaggle kernel,
+For python code please refer to the attached iPython Notebook in this repo. Also you can check out below kaggle kernel,
 
 https://www.kaggle.com/akseersafdar/credit-card-fraud-detection
 
